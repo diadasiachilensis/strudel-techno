@@ -1,11 +1,3 @@
-¡Felicidades, Colega\! Has completado oficialmente el **Módulo 1: Fundamentos de la Ingeniería Techno**.
-
-Como tu docente, he preparado este **"Cheat Sheet" (Hoja de Resumen)**. Guárdalo bien, porque estos son los cimientos sobre los que construiremos todo lo demás. Si esto falla, el edificio se cae.
-
-Aquí tienes la **Arquitectura del Techno Nivel 1** traducida a términos técnicos de la industria.
-
------
-
 ### 📂 RESUMEN TÉCNICO: NIVEL 1
 
 #### 1\. El Motor Rítmico (The Groove)
@@ -80,5 +72,3 @@ stack(
     .gain(0.9)     // Ganancia de salida
 )
 ```
-
-**¿Estás listo para pasar al Nivel 3 y aprender cómo hacer que esas notas corran ("c2 [c2 c2 c2 c2]")?**
